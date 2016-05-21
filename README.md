@@ -25,8 +25,9 @@
 - [x] After the project starts:
 	* Follow the console instructions. Each step allows you to choose an option as a 'int' input.eg 
 
+
  ----------------------------------------------------------------------
-eg.
+**Example:**
 
 What is your classification?
 1. ` Student`
