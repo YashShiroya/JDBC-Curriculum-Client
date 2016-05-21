@@ -25,7 +25,7 @@
 - [x] After the project starts:
 	* Follow the console instructions. Each step allows you to choose an option as a 'int' input.eg 
 
-```
+ ----------------------------------------------------------------------
 eg.
 
 What is your classification?
@@ -36,7 +36,7 @@ What is your classification?
 
 	eg. To choose the following option, type the option number without any other character, so to choose option 1. Student, just type 1
 
-```
+
  ----------------------------------------------------------------------
 
 *This step is not required by default and should only be performed if the project does not build.*
