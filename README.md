@@ -2,7 +2,7 @@
 
 | Author: Yashkumar Shiroya |
  ---------------------------
-| Java: JDBC, SQL |
+` Java: JDBC, SQL `
  ----------------------------
 
 - [x] Running Scripts:
