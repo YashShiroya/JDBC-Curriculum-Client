@@ -26,17 +26,16 @@
 	* Follow the console instructions. Each step allows you to choose an option as a 'int' input.eg 
 
 
- ----------------------------------------------------------------------
-**Example:**
+| **Example:** |
 
-What is your classification?
+| What is your classification?
 1. ` Student`
 2. ` Faculty`
 3. ` Admin`
-4. ` Exit`
+4. ` Exit` |
 
-eg. To choose the following option, type the option number without any other character,
-so to *choose option 1. Student, just type 1*
+| eg. To choose the following option, type the option number without any other character,
+so to *choose option 1. Student, just type 1* |
 
 
  ----------------------------------------------------------------------
