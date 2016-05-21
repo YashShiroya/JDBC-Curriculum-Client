@@ -5,8 +5,8 @@
 
 - [x] Running Scripts:
 
-All the scripts for generation of tables are provided in the submission folder.
-Order of execution of these sql_scripts:
+	All the scripts for generation of tables are provided in the submission folder.
+	Order of execution of these sql_scripts:
 
 	* Run @config - This set tab spaces so that the large tables are visible without being merged in window.
 	* Run @do - This script performs 3 steps, 
