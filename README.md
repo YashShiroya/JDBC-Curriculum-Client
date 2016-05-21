@@ -31,7 +31,7 @@
 | What is your classification? |
 | 1. ` Student` <br> 2. ` Faculty` <br> 3. ` Admin` <br> 4. ` Exit` |
 
-| eg. To choose the following option, type the option number without any other character, so to *choose option 1. Student, just type 1* |
+| eg. To choose the above option, type the option number without any other character, so to `choose option 1. Student, just type 1\r` |
 ------------------------------------------
 
 *This step is not required by default and should only be performed if the project does not build.*
